@@ -1,4 +1,4 @@
-package GitTest
+package main
 
 func main() {
 	return
